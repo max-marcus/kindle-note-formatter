@@ -1,0 +1,495 @@
+Range: Why Generalists Triumph in a Specialized World
+David J.  Epstein
+INTRODUCTION Roger vs. Tiger
+
+The response, in every field, to a ballooning library of human knowledge and an interconnected world has been to exalt increasingly narrow focus.
+
+Eventual elites typically devote less time early on to deliberate practice in the activity in which they will eventually become experts. Instead, they undergo what researchers call a “sampling period.” They play a variety of sports, usually in an unstructured or lightly structured environment; they gain a range of physical proficiencies from which they can draw; they learn about their own abilities and proclivities; and only later do they focus in and ramp up technical practice in one area.
+
+The professed necessity of hyperspecialization forms the core of a vast, successful, and sometimes well-meaning marketing machine, in sports and beyond. In reality, the Roger path to sports stardom is far more prevalent than the Tiger path, but those athletes’ stories are much more quietly told, if they are told at all.
+
+One study showed that early career specializers jumped out to an earnings lead after college, but that later specializers made up for the head start by finding work that better fit their skills and personalities.
+NOTE: Ultimately the latter is likely more important to living happily
+
+a raft of studies that showed how technological inventors increased their creative impact by accumulating experience in different domains, compared to peers who drilled more deeply into one; they actually benefited by proactively sacrificing a modicum of depth for breadth as their careers progressed. There was a nearly identical finding in a study of artistic creators.
+
+takes time—and often forgoing a head start—to develop personal and professional range, but it is worth it.
+
+highly credentialed experts can become so narrow-minded that they actually get worse with experience, even while becoming more confident—a dangerous combination.
+
+cognitive psychologists I spoke with led me to an enormous and too often ignored body of work demonstrating that learning itself is best done slowly to accumulate lasting knowledge, even when that means performing poorly on tests of immediate progress. That is, the most effective learning looks inefficient; it looks like falling behind.
+
+Overspecialization can lead to collective tragedy even when every individual separately takes the most reasonable course of action.
+NOTE: Need communication between specialists, at the very least
+
+The challenge we all face is how to maintain the benefits of breadth, diverse experience, interdisciplinary thinking, and delayed concentration in a world that increasingly incentivizes, even demands, hyperspecialization.
+
+CHAPTER 1 The Cult of the Head Start
+
+The bestseller Talent Is Overrated used the Polgar sisters and Tiger Woods as proof that a head start in deliberate practice is the key to success in “virtually any activity that matters to you.” The powerful lesson is that anything in the world can be conquered in the same way. It relies on one very important, and very unspoken, assumption: that chess and golf are representative examples of all the activities that matter to you.
+
+When Kahneman probed the judgments of highly trained experts, he often found that experience had not helped at all. Even worse, it frequently bred confidence but not skill.
+
+In those domains, which involved human behavior and where patterns did not clearly repeat, repetition did not cause learning. Chess, golf, and firefighting are exceptions, not the rule.
+
+Whether or not experience inevitably led to expertise, they agreed, depended entirely on the domain in question. Narrow experience made for better chess and poker players and firefighters, but not for better predictors of financial or political trends, or of how employees or patients would perform.
+
+The domains Klein studied, in which instinctive pattern recognition worked powerfully, are what psychologist Robin Hogarth termed “kind” learning environments. Patterns repeat over and over, and feedback is extremely accurate and usually very rapid.
+
+The learning environment is kind because a learner improves simply by engaging in the activity and trying to do better.
+
+Kahneman was focused on the flip side of kind learning environments; Hogarth called them “wicked.” In wicked domains, the rules of the game are often unclear or incomplete, there may or may not be repetitive patterns and they may not be obvious, and feedback is often delayed, inaccurate, or both.
+
+In the most devilishly wicked learning environments, experience will reinforce the exact wrong lessons.
+
+Moravec’s paradox: machines and humans frequently have opposite strengths and weaknesses.
+
+Thanks to their calculation power, computers are tactically flawless compared to humans.
+NOTE: While humans typically have a better understanding of strategy - higher level objectives
+
+The primary benefit of years of experience with specialized training was outsourced, and in a contest where humans focused on strategy, he suddenly had peers.
+NOTE: Specialization = stronger tactically. So negating a tactical advantage, by way of computing power for instance, can level the playing field for less specialized individuals or teams. Strategy may be better suited by generalization.A military General is superior with high level strategy
+
+Chunking helps explain instances of apparently miraculous, domain-specific memory,
+
+The reason that elite athletes seem to have superhuman reflexes is that they recognize patterns of ball or body movements that tell them what’s coming before it happens. When tested outside of their sport context, their superhuman reactions disappear.
+
+Chunking can seem like magic, but it comes from extensive, repetitive practice.
+
+the bigger the picture, the more unique the potential human contribution. Our greatest strength is the exact opposite of narrow specialization. It is the ability to integrate broadly.
+
+analogy for the current limits of expert machines: “AI systems are like savants.” They need stable structures and narrow worlds.
+
+The world is not golf, and most of it isn’t even tennis. As Robin Hogarth put it, much of the world is “Martian tennis.” You can see the players on a court with balls and rackets, but nobody has shared the rules. It is up to you to derive them, and they are subject to change without notice.
+
+Erik Dane, a Rice University professor who studies organizational behavior, calls this phenomenon “cognitive entrenchment.” His suggestions for avoiding it are about the polar opposite of the strict version of the ten-thousand-hours school of thought: vary challenges within a domain drastically, and, as a fellow researcher put it, insist on “having one foot outside your world.”
+
+The main conclusion of work that took years of studying scientists and engineers, all of whom were regarded by peers as true technical experts, was that those who did not make a creative contribution to their field lacked aesthetic interests outside their narrow area.
+
+“This breadth often supports insights that cannot be attributed to domain-specific expertise alone.”
+
+early in their careers, those who later made successful transitions had broader training and kept multiple “career streams” open even as they pursued a primary specialty.
+
+The successful adapters were excellent at taking knowledge from one pursuit and applying it creatively to another, and at avoiding cognitive entrenchment. They employed what Hogarth called a “circuit breaker.” They drew on outside experiences and analogies to interrupt their inclination toward a previous solution that may no longer work. Their skill was in avoiding the same old patterns. In the wicked world, with ill-defined challenges and few rigid rules, range can be a life hack.
+
+CHAPTER 2 How the Wicked World Was Made
+
+To use a common metaphor, premodern people miss the forest for the trees; modern people miss the trees for the forest.
+NOTE: Modern people see abstract concepts and relationships much easier than premodern people, who see things in practical contexts
+
+Because the touched-by-modernity teens had constructed meaningful thematic groups, they also had far superior recall when asked later to recount the items. The more they had moved toward modernity, the more powerful their abstract thinking, and the less they had to rely on their concrete experience of the world as a reference point.
+
+Conceptual schemes are flexible, able to arrange information and ideas for a wide variety of uses, and to transfer knowledge between domains. Modern work demands knowledge transfer: the ability to apply knowledge to new situations and different domains.
+
+Our most fundamental thought processes have changed to accommodate increasing complexity and the need to derive new patterns rather than rely only on familiar ones. Our conceptual classification schemes provide a scaffolding for connecting knowledge, making it accessible and flexible.
+
+Exposure to the modern world has made us better adapted for complexity, and that has manifested as flexibility, with profound implications for the breadth of our intellectual world.
+
+modern life requires range, making connections across far-flung domains and ideas.
+
+the correlation between the test of broad conceptual thinking and GPA was about zero. In Flynn’s words, “the traits that earn good grades at [the university] do not include critical ability of any broad significance.”
+
+everyone needs habits of mind that allow them to dance across disciplines.
+
+“Computational thinking is using abstraction and decomposition when attacking a large complex task,” she wrote. “It is choosing an appropriate representation for a problem.”
+
+“Everyone is so busy doing research they don’t have time to stop and think about the way they’re doing it.”
+NOTE: If you're going to do something, do it right
+
+And that is what a rapidly changing, wicked world demands—conceptual reasoning skills that can connect new ideas and work across contexts.
+
+The more constrained and repetitive a challenge, the more likely it will be automated, while great rewards will accrue to those who can take conceptual knowledge from one problem or domain and apply it in an entirely new one.
+
+CHAPTER 3 When Less of the Same Is More
+
+Parents, Yates told me, increasingly come to him and “want their kids doing what the Olympians are doing right now, not what the Olympians were doing when they were twelve or thirteen,” which included a wider variety of activities that developed their general athleticism and allowed them to probe their talents and interests before they focused narrowly on technical skills. The sampling period is not incidental to the development of great performers—something to be excised in the interest of a head start—it is integral.
+
+“The strong implication,” the researchers wrote, is “that that too many lessons at a young age may not be helpful.” “However,” they added, “the distribution of effort across different instruments seems important. Those children identified as exceptional by [the school] turn out to be those children who distributed their effort more evenly across three instruments.”
+
+The psychologists highlighted the variety of paths to excellence, but the most common was a sampling period, often lightly structured with some lessons and a breadth of instruments and activities, followed only later by a narrowing of focus, increased structure, and an explosion of practice volume.
+
+The strict deliberate practice school describes useful training as focused consciously on error correction. But the most comprehensive examination of development in improvisational forms, by Duke University professor Paul Berliner, described the childhoods of professionals as “one of osmosis,” not formal instruction.
+
+aspiring improvisational musicians “whose educational background has fostered a fundamental dependence on [formal] teachers must adopt new approaches to learning.”
+
+Improv masters learn like babies: dive in and imitate and improvise first, learn the formal rules later.
+
+“The jazz musician is a creative artist, the classical musician is a re-creative artist.”
+
+breadth of training predicts breadth of transfer. That is, the more contexts in which something is learned, the more the learner creates abstract models, and the less they rely on any particular example. Learners become better at applying their knowledge to a situation they’ve never seen before, which is the essence of creativity.
+
+creativity may be difficult to nurture, but it is easy to thwart.
+
+I think when you’re self-taught you experiment more, trying to find the same sound in different places, you learn how to solve problems.”
+
+CHAPTER 4 Learning, Fast and Slow
+
+“We’re very good, humans are, at trying to do the least amount of work that we have to in order to accomplish a task,” Richland told me. Soliciting hints toward a solution is both clever and expedient. The problem is that when it comes to learning concepts that can be broadly wielded, expedience can backfire.
+
+If the teacher didn’t already turn the work into using-procedures practice, well-meaning parents will. They aren’t comfortable with bewildered kids, and they want understanding to come quickly and easily.
+
+for learning that is both durable (it sticks) and flexible (it can be applied broadly), fast and easy is precisely the problem.
+
+concept of “desirable difficulties,” obstacles that make learning more challenging, slower, and more frustrating in the short term, but better in the long term.
+
+One of those desirable difficulties is known as the “generation effect.” Struggling to generate an answer on your own, even a wrong one, enhances subsequent learning.
+
+Being forced to generate answers improves subsequent learning even if the generated answer is wrong.
+
+The more confident a learner is of their wrong answer, the better the information sticks when they subsequently learn the right answer. Tolerating big mistakes can create the best learning opportunities.
+NOTE: Not very applicable to motor skills though
+
+Training without hints is slow and error-ridden. It is, essentially, what we normally think of as testing, except for the purpose of learning rather than evaluation—when “test” becomes a dreaded four-letter word.
+
+Struggling to retrieve information primes the brain for subsequent learning, even when the retrieval itself is unsuccessful.
+
+another important desirable difficulty: “spacing,” or distributed practice. It is what it sounds like—leaving time between practice sessions for the same material.
+
+Space between practice sessions creates the hardness that enhances learning.
+
+For a given amount of material, learning is most efficient in the long run when it is really inefficient in the short run. If you are doing too well when you test yourself, the simple antidote is to wait longer before practicing the same material again, so that the test will be more difficult when you do. Frustration is not a sign you are not learning, but ease is.
+
+teachers and students must avoid interpreting current performance as learning. Good performance on a test during the learning process can indicate mastery, but learners and teachers need to be aware that such performance will often index, instead, fast but fleeting progress.”
+
+Knowledge increasingly needs not merely to be durable, but also flexible—both sticky and capable of broad application.
+
+for knowledge to be flexible, it should be learned under varied conditions, an approach called varied or mixed practice, or, to researchers, “interleaving.”
+
+The feeling of learning, it turns out, is based on before-your-eyes progress, while deep learning is not. “When your intuition says block,” Kornell told me, “you should probably interleave.”
+
+Interleaving is a desirable difficulty that frequently holds for both physical and mental skills.
+
+Whether the task is mental or physical, interleaving improves the ability to match the right strategy to a problem.
+
+Whether chemists, physicists, or political scientists, the most successful problem solvers spend mental energy figuring out what type of problem they are facing before matching a strategy to it, rather than jumping in with memorized procedures.
+NOTE: If you give me two hours to chop down a tree, I will use the first hour to sharpen my axe.
+
+Desirable difficulties like testing and spacing make knowledge stick. It becomes durable. Desirable difficulties like making connections and interleaving make knowledge flexible, useful for problems that never appeared in training.
+
+Learning deeply means learning slowly. The cult of the head start fails the learners it seeks to serve.
+
+Knowledge with enduring utility must be very flexible, composed of mental schemes that can be matched to new problems.
+
+When a knowledge structure is so flexible that it can be applied effectively even in new domains or extremely novel situations, it is called “far transfer.”
+
+CHAPTER 5 Thinking Outside Experience
+
+Kepler was so far outside the bounds of previous thought that there was no evidence in existence for him to work from. He had to use analogies.
+NOTE: Analogies as a way of encouraging creative thinking
+
+Each time he got stuck, Kepler unleashed a fusillade of analogies.
+
+He interrogated each one ruthlessly, every time alighting on new questions.
+
+Deep analogical thinking is the practice of recognizing conceptual similarities in multiple domains or scenarios that may seem to have little in common on the surface. It is a powerful tool for solving wicked problems,
+
+Analogical thinking takes the new and makes it familiar, or takes the familiar and puts it in a new light, and allows humans to reason through problems they have never seen in unfamiliar contexts. It also allows us to understand that which we cannot see at all.
+
+“In the life we lead today,” Gentner told me, “we need to be reminded of things that are only abstractly or relationally similar. And the more creative you want to be, the more important that is.”
+
+Human intuition, it appears, is not very well engineered to make use of the best tools when faced with what the researchers called “ill-defined” problems. Our experience-based instincts are set up well for Tiger domains, the kind world Gentner described, where problems and solutions repeat.
+
+The outside view probes for deep structural similarities to the current problem in different ones. The outside view is deeply counterintuitive because it requires a decision maker to ignore unique surface features of the current project, on which they are the expert, and instead look outside for structurally similar analogies. It requires a mindset switch from narrow to broad.
+
+Psychologists have shown repeatedly that the more internal details an individual can be made to consider, the more extreme their judgment becomes.
+
+Focusing narrowly on many fine details specific to a problem at hand feels like the exact right thing to do, when it is often exactly wrong.
+
+Instead of predicting what you might like, they examine who you are like, and the complexity is captured therein.
+NOTE: Something to remember for recommendation algorithms and other UX
+
+This time will probably be like the last time, so extensive narrow experience works. Generating new ideas or facing novel problems with high uncertainty is nothing like that. Evaluating an array of options before letting intuition reign is a trick for the wicked world.
+
+The labs in which scientists had more diverse professional backgrounds were the ones where more and more varied analogies were offered, and where breakthroughs were more reliably produced when the unexpected arose.
+NOTE: Greater diversity = more base domains = more analogies = more creativity
+
+“When all the members of the laboratory have the same knowledge at their disposal, then when a problem arises, a group of similar minded individuals will not provide more information to make analogies than a single individual,”
+
+there is often no entrenched interest fighting on the side of range, or of knowledge that must be slowly acquired. All forces align to incentivize a head start and early, narrow specialization, even if that is a poor long-term strategy.
+
+CHAPTER 6 The Trouble with Too Much Grit
+
+“Match quality” is a term economists use to describe the degree of fit between the work someone does and who they are—their abilities and proclivities.
+
+the role of education in allowing individuals to delay specialization while sampling and finding out who they are and where they fit.
+
+If students focused earlier, they compiled more skills that prepared them for gainful employment. If they sampled and focused later, they entered the job market with fewer domain-specific skills, but a greater sense of the type of work that fit their abilities and inclinations.
+
+With less sampling opportunity, more students headed down a narrow path before figuring out if it was a good one.
+
+Malamud’s conclusion: “The benefits to increased match quality . . . outweigh the greater loss in skills.” Learning stuff was less important than learning about oneself. Exploration is not just a whimsical luxury of education; it is a central benefit.
+
+For professionals who did switch, whether they specialized early or late, switching was a good idea. “You lose a good fraction of your skills, so there’s a hit,” Malamud said, “but you do actually have higher growth rates after switching.” Regardless of when specialization occurred, switchers capitalized on experience to identify better matches.
+
+“admonitions such as ‘winners never quit and quitters never win,’ while well-meaning, may actually be extremely poor advice.” Levitt identified one of his own most important skills as “the willingness to jettison” a project or an entire area of study for a better fit.
+
+The expression “young and foolish,” he wrote, describes the tendency of young adults to gravitate to risky jobs, but it is not foolish at all. It is ideal. They have less experience than older workers, and so the first avenues they should try are those with high risk and reward, and that have high informational value.
+
+Persevering through difficulty is a competitive advantage for any traveler of a long road, but he suggested that knowing when to quit is such a big strategic advantage that every single person, before undertaking an endeavor, should enumerate conditions under which they should quit. The important trick, he said, is staying attuned to whether switching is simply a failure of perseverance, or astute recognition that better matches are available.
+
+Where dangling money for junior officers failed miserably, facilitating match quality succeeded.
+NOTE: Can likely apply to more standard work environments. Increase employee retention by offering match quality changes
+
+In the wider world of work, finding a goal with high match quality in the first place is the greater challenge, and persistence for the sake of persistence can get in the way.
+
+The trouble, Godin noted, is that humans are bedeviled by the “sunk cost fallacy.” Having invested time or money in something, we are loath to leave it, because that would mean we had wasted our time or money, even though it is already gone.
+
+No one in their right mind would argue that passion and perseverance are unimportant, or that a bad day is a cue to quit. But the idea that a change of interest, or a recalibration of focus, is an imperfection and competitive disadvantage leads to a simple, one-size-fits-all Tiger story: pick and stick, as soon as possible.
+
+Responding to lived experience with a change of direction, like Van Gogh did habitually, like West Point graduates have been doing since the dawn of the knowledge economy, is less tidy but no less important.
+
+CHAPTER 7 Flirting with Your Possible Selves
+
+“I did not intend to become a leader, I just learned by doing what was needed at the time.”
+
+“You have to carry a big basket to bring something home.” She repeats that phrase today, to mean that a mind kept wide open will take something from every new experience.
+
+“The people we study who are fulfilled do pursue a long-term goal, but they only formulate it after a period of discovery,”
+
+Career goals that once felt safe and certain can appear ludicrous, to use Darwin’s adjective, when examined in the light of more self-knowledge. Our work preferences and our life preferences do not stay the same, because we do not stay the same.
+
+The precise person you are now is fleeting, just like all the other people you’ve been. That feels like the most unexpected result, but it is also the most well documented.
+
+The most momentous personality changes occur between age eighteen and one’s late twenties, so specializing early is a task of predicting match quality for a person who does not yet exist. It could work, but it makes for worse odds.
+
+Plus, while personality change slows, it does not stop at any age.
+
+Because personality changes more than we expect with time, experience, and different contexts, we are ill-equipped to make ironclad long-term goals when our past consists of little time, few experiences, and a narrow range of contexts.
+
+we learn who we are only by living, and not before.
+
+we maximize match quality throughout life by sampling activities, social groups, contexts, jobs, careers, and then reflecting and adjusting our personal narratives. And repeat.
+
+“All of the strengths-finder stuff, it gives people license to pigeonhole themselves or others in ways that just don’t take into account how much we grow and evolve and blossom and discover new things,”
+
+Rather than expecting an ironclad a priori answer to “Who do I really want to become?,” their work indicated that it is better to be a scientist of yourself, asking smaller questions that can actually be tested—“Which among my various possible selves should I start to explore now? How can I do that?” Be a flirt with your possible selves.* Rather than a grand plan, find experiments that can be undertaken quickly. “Test-and-learn,” Ibarra told me, “not plan-and-implement.”
+
+Virtually every good thing in my life I can trace back to a misfortune, so my feeling is you don’t know what’s good and what’s bad when things happen. You do not know. You have to wait to find out.”
+
+A person don’t know what he can do unless he tryes. Trying things is the answer to find your talent.”
+NOTE: Howard Finster
+
+CHAPTER 8 The Outsider Advantage
+
+there was always going to be this somewhat serendipitous outside thinking that was going to make a solution more clever, cost-effective, efficacious, more on the money than anyone else’s.
+
+established companies tended to approach problems with so-called local search, that is, using specialists from a single domain, and trying solutions that worked before.
+
+InnoCentive realized it could help seekers tailor their posts to make a solution more likely. The trick: to frame the challenge so that it attracted a diverse array of solvers. The more likely a challenge was to appeal not just to scientists but also to attorneys and dentists and mechanics, the more likely it was to be solved.
+
+Bingham calls it “outside-in” thinking: finding solutions in experiences far outside of focused training for the problem itself.
+
+we tend to view things with all the information we’ve gathered in our industry, and sometimes that puts us down a path that goes into a wall. It’s hard to back up and find another path.”
+
+the Einstellung effect, a psychology term for the tendency of problem solvers to employ only familiar methods even if better ones are available.
+
+as specialists become more narrowly focused, “the box” is more like Russian nesting dolls. Specialists divide into subspecialties, which soon divide into sub-subspecialties. Even if they get outside the small doll, they may get stuck inside the next, slightly larger one.
+
+Our intuition might be that only hyperspecialized experts can drive modern innovation, but increasing specialization actually creates new opportunities for outsiders.
+
+“Big innovation most often happens when an outsider who may be far away from the surface of the problem reframes the problem in a way that unlocks the solution.”
+
+“Knowledge is a double-edged sword. It allows you to do some things, but it also makes you blind to other things that you could do.”
+
+Swanson wanted to show that areas of specialist literature that never normally overlapped were rife with hidden interdisciplinary treasures waiting to be connected. He created a computer system, Arrowsmith, that helped other users do what he did—devise searches that might turn up distant but relevant sets of scientific articles, and ignited a field of information science that grapples with connecting diverse areas of knowledge, as specialties that can inform one another drift apart.
+NOTE: Awesome business idea
+
+The more information specialists create, the more opportunity exists for curious dilettantes to contribute by merging strands of widely available but disparate information—undiscovered public knowledge, as Don Swanson called it.
+
+The larger and more easily accessible the library of human knowledge, the more chances for inquisitive patrons to make connections at the cutting edge.
+
+CHAPTER 9 Lateral Thinking with Withered Technology
+
+Lateral thinking is a term coined in the 1960s for the reimagining of information in new contexts, including the drawing together of seemingly disparate concepts or domains that can give old ideas new uses.
+
+By “withered technology,” Yokoi meant tech that was old enough to be extremely well understood and easily available, so it didn’t require a specialist’s knowledge.
+
+There is, to be sure, no comprehensive theory of creativity. But there is a well-documented tendency people have to consider only familiar uses for objects, an instinct known as functional fixedness.
+
+Do not be an engineer, he said, be a producer. “The producer knows that there’s such a thing as a semiconductor, but doesn’t need to know its inner workings. . . . That can be left to the experts.”
+NOTE: Sometimes it helps not knowing all the details
+
+an “empowering innovation”—one that creates both new customers and new jobs, like the rise of personal computers
+
+He needed specialists, but his concern was that as companies grew and technology progressed, vertical-thinking hyperspecialists would continue to be valued but lateral-thinking generalists would not.
+
+He felt that the lateral and vertical thinkers were best together, even in highly technical fields.
+
+At a company whose mission is to constantly push technological frontiers, world-leading technical specialization by itself was not the key ingredient to success.
+
+communication technology has limited the number of hyperspecialists required to work on a particular narrow problem, because their breakthroughs can be communicated quickly and widely to others—the Yokois of the world—who work on clever applications.
+
+“T-people like myself can happily go to the I-people with questions to create the trunk for the T,”
+
+“My inclination is to attack a problem by building a narrative. I figure out the fundamental questions to ask, and if you ask those questions of the people who actually do know their stuff, you are still exactly where you would be if you had all this other knowledge inherently. It’s mosaic building. I just keep putting those tiles together.
+NOTE: Jayshree Seth
+
+“As ambiguity and uncertainty increases, which is the norm with systems problems, breadth becomes increasingly important.”
+
+length of experience did not differentiate creators, breadth of experience did. Broad genre experience made creators better on average and more likely to innovate.
+NOTE: Regarding comic books
+
+“When seeking innovation in knowledge-based industries,” they wrote, “it is best to find one ‘super’ individual. If no individual with the necessary combination of diverse knowledge is available, one should form a ‘fantastic’ team.”
+
+In kind environments, where the goal is to re-create prior performance with as little deviation as possible, teams of specialists work superbly.
+
+When the path is unclear—a game of Martian tennis—those same routines no longer suffice. “Some tools work fantastically in certain situations, advancing technology in smaller but important ways, and those tools are well known and well practiced,” Andy Ouderkirk told me. “Those same tools will also pull you away from a breakthrough innovation. In fact, they’ll turn a breakthrough innovation into an incremental one.”
+
+serial innovators repeatedly claimed that they themselves would be screened out under their company’s current hiring practices.
+
+Facing uncertain environments and wicked problems, breadth of experience is invaluable. Facing kind problems, narrow specialization can be remarkably efficient. The problem is that we often expect the hyperspecialist, because of their expertise in a narrow area, to magically be able to extend their skill to wicked problems.
+
+CHAPTER 10 Fooled by Expertise
+
+Ideally, intellectual sparring partners “hone each other’s arguments so that they are sharper and better,”
+
+The integrators outperformed their colleagues on pretty much everything, but they especially trounced them on long-term predictions.
+NOTE: Integrators of multiple viewpoints vs. hardliners
+
+The foxes, meanwhile, “draw from an eclectic array of traditions, and accept ambiguity and contradiction,” Tetlock wrote. Where hedgehogs represented narrowness, foxes ranged outside a single discipline or theory and embodied breadth.
+NOTE: Foxes = integrators able to predict accurately with some regularityHedgehogs = narrow minded experts not able to predict more accurately than chance
+
+Incredibly, the hedgehogs performed especially poorly on long-term predictions within their domain of expertise. They actually got worse as they accumulated credentials and experience in their field. The more information they had to work with, the more they could fit any story to their worldview.
+
+Viewing every world event through their preferred keyhole made it easy to fashion compelling stories about anything that occurred, and to tell the stories with adamant authority. In other words, they make great TV.
+
+When a new idea entered the conversation, he was quick with “Let’s say for the sake of argument,” which led to him playing out viewpoints from different disciplines or political or emotional perspectives.
+
+Eastman, like his teammates, is constantly collecting perspectives anywhere he can, always adding to his intellectual range, so any ground is fertile for him.
+
+Often if you’re too much of an insider, it’s hard to get good perspective.”
+
+Eastman described the core trait of the best forecasters to me as: “genuinely curious about, well, really everything.”
+
+Narrow experts are an invaluable resource, she told me, “but you have to understand that they may have blinders on. So what I try to do is take facts from them, not opinions.”
+
+Agreement is not what they are after; they are after aggregating perspectives, lots of them.
+
+In contrast to politicians, the most adept predictors flip-flop like crazy.
+NOTE: Because they're always taking into account new information and data points
+
+A hallmark of interactions on the best teams is what psychologist Jonathan Baron termed “active open-mindedness.” The best forecasters view their own ideas as hypotheses in need of testing. Their aim is not to convince their teammates of their own expertise, but to encourage their teammates to help them falsify their own notions.
+
+It is not that we are unable to come up with contrary ideas, it is just that our strong instinct is not to.
+
+The most science-curious folk always chose to look at new evidence, whether or not it agreed with their current beliefs. Less science-curious adults were like hedgehogs: they became more resistant to contrary evidence and more politically polarized as they gained subject matter knowledge.
+
+Just as Tetlock says of the best forecasters, it is not what they think, but how they think. The best forecasters are high in active open-mindedness. They are also extremely curious, and don’t merely consider contrary ideas, they proactively cross disciplines looking for them.
+
+Beneath complexity, hedgehogs tend to see simple, deterministic rules of cause and effect framed by their area of expertise,
+
+Foxes see complexity in what others mistake for simple cause and effect. They understand that most cause-and-effect relationships are probabilistic, not deterministic. There are unknowns, and luck, and even when history apparently repeats, it does not do so precisely. They recognize that they are operating in the very definition of a wicked learning environment, where it can be very hard to learn, from either wins or losses.
+
+In wicked domains that lack automatic feedback, experience alone does not improve performance. Effective habits of mind are more important, and they can be developed.
+
+Basically, forecasters can improve by generating a list of separate events with deep structural similarities, rather than focusing only on internal details of the specific event in question. Few events are 100 percent novel—uniqueness is a matter of degree, as Tetlock puts it—and creating the list forces a forecaster implicitly to think like a statistician.
+
+Starting with the details—the inside view—is dangerous. Hedgehog experts have more than enough knowledge about the minutiae of an issue in their specialty to do just what Dan Kahan suggested: cherry-pick details that fit their all-encompassing theories. Their deep knowledge works against them.
+
+Skillful forecasters depart from the problem at hand to consider completely unrelated events with structural commonalities rather than relying on intuition based on personal experience or a single area of expertise.
+
+They made a wicked learning environment, one with no automatic feedback, a little more kind by creating rigorous feedback at every opportunity.
+
+CHAPTER 11 Learning to Drop Your Familiar Tools
+
+it’s often the case in group meetings where the person who made the PowerPoint slides puts data in front of you, and we often just use the data people put in front of us. I would argue we don’t do a good job of saying, ‘Is this the data that we want to make the decision we need to make?’”
+NOTE: Don't hesitate to ask for more data/context. If you can't get it, you're no worse off
+
+Reason without numbers was not accepted. In the face of an unfamiliar challenge, NASA managers failed to drop their familiar tools.
+NOTE: Get as much data as possible, but remember a lack of sufficient/substantive data can still remain a concern
+
+“Dropping one’s tools is a proxy for unlearning, for adaptation, for flexibility,” Weick wrote. “It is the very unwillingness of people to drop their tools that turns some of these dramas into tragedies.”
+
+Rather than adapting to unfamiliar situations, whether airline accidents or fire tragedies, Weick saw that experienced groups became rigid under pressure and “regress to what they know best.” They behaved like a collective hedgehog, bending an unfamiliar situation to a familiar comfort zone, as if trying to will it to become something they actually had experienced before.
+
+They needed to improvise rather than throw out information that did not fit the established rubric.
+
+Gleason told him that he preferred to view his crew leadership not as decision making, but as sensemaking. “If I make a decision, it is a possession, I take pride in it, I tend to defend it and not listen to those who question it,” Gleason explained. “If I make sense, then this is more dynamic and I listen and I can change it.”
+
+“When you don’t have any data,” Feynman said, “you have to use reason.”
+
+A team or organization that is both reliable and flexible, according to Weick, is like a jazz group. There are fundamentals—scales and chords—that every member must overlearn, but those are just tools for sensemaking in a dynamic environment. There are no tools that cannot be dropped, reimagined, or repurposed in order to navigate an unfamiliar challenge. Even the most sacred tools. Even the tools so taken for granted they become invisible.
+
+There must be times when even the sacrosanct tool of togetherness should be dropped, right?
+
+A level of ambiguity, it seemed, was not harmful. In decision making, it can broaden an organization’s toolbox in a way that is uniquely valuable.
+
+cultures can actually be too internally consistent. With incongruence, “you’re building in cross-checks,” Tetlock told me.
+
+experiments showed that an effective problem-solving culture was one that balanced standard practice—whatever it happened to be—with forces that pushed in the opposite direction.
+
+The trick was expanding the organization’s range by identifying the dominant culture and then diversifying it by pushing in the opposite direction.
+
+“The chain of communication has to be informal,” he told me, “completely different from the chain of command.”
+NOTE: Varies by situation but an example of healthy tension
+
+“After the decisions are made, we want compliance and support, but we have permission to fight a little bit about those things in a professional way.”
+
+It is a difficult balancing act, cultivating aspects of a culture that seem on their face to push against one another. There are no rules for the qualitative hunches of space shuttle engineers or pararescue jumpers lacking intel. Incongruence, as the experimental research testified, helps people to discover useful cues, and to drop the traditional tools when it makes sense.
+
+when entire specialties grow up around devotion to a particular tool, the result can be disastrous myopia.
+
+Seeing small pieces of a larger jigsaw puzzle in isolation, no matter how hi-def the picture, is insufficient to grapple with humanity’s greatest challenges.
+
+CHAPTER 12 Deliberate Amateurs
+
+One needs to let the brain think about something different from its daily work,
+
+‘Don’t end up a clone of your thesis adviser,’” he told me. “Take your skills to a place that’s not doing the same sort of thing. Take your skills and apply them to a new problem, or take your problem and try completely new skills.”
+
+An enthusiastic, even childish, playful streak is a recurring theme in research on creative thinkers.
+
+The word “amateur,” she pointed out, did not originate as an insult, but comes from the Latin word for a person who adores a particular endeavor.
+
+“A paradox of innovation and mastery is that breakthroughs often occur when you start down a road, but wander off for a ways and pretend as if you have just begun,”
+
+Deviating from what Geim calls the “straight railway line” of life is “not secure . . . psychologically,” but comes with advantages, for motivation and for “questioning things people who work in that area never bother to ask.”
+
+they balance the rest of the week’s standard practice with wide-roaming exploration. They embrace what Max Delbrück, a Nobel laureate who studied the intersection of physics and biology, called “the principle of limited sloppiness.” Be careful not to be too careful, Delbrück warned, or you will unconsciously limit your exploration.
+
+At some point or other, we all specialize to one degree or another, so the rush to get there can seem logical.
+
+“Do we really need to go through courses with very specialized knowledge that often provides a huge amount of stuff that is very detailed, very specialized, very arcane, and will be totally forgotten in a couple of weeks? Especially now, when all the information is on your phone. You have people walking around with all the knowledge of humanity on their phone, but they have no idea how to integrate it. We don’t train people in thinking or reasoning.”
+
+Both training and professional incentives are aligning to accelerate specialization, creating intellectual archipelagos.
+
+In professional networks that acted as fertile soil for successful groups, individuals moved easily among teams, crossing organizational and disciplinary boundaries and finding new collaborators.
+
+Networks that spawned unsuccessful teams, conversely, were broken into small, isolated clusters in which the same people collaborated over and over. Efficient and comfortable, perhaps, but apparently not a creative engine.
+
+New collaborations allow creators “to take ideas that are conventions in one area and bring them into a new area, where they’re suddenly seen as invention,” said sociologist Brian Uzzi, Amaral’s collaborator. Human creativity, he said, is basically an “import/export business of ideas.”
+
+Consistent with the import/export model, scientists who have worked abroad—whether or not they returned—are more likely to make a greater scientific impact than those who have not. The economists who documented that trend suggested one reason could be migrants’ “arbitrage” opportunities, the chance to take an idea from one market and bring it to another where it is more rare and valued.
+NOTE: Opportunities for entrepreneurship. Support for pro-immigration viewpoints
+
+To recap: work that builds bridges between disparate pieces of knowledge is less likely to be funded, less likely to appear in famous journals, more likely to be ignored upon publication, and then more likely in the long run to be a smash hit in the library of human knowledge.
+
+And most people say, ‘Well, I don’t have time to read outside my field.’ I say, ‘No, you do have time, it’s far more important.’ Your world becomes a bigger world, and maybe there’s a moment in which you make connections.”
+
+“Scientific progress on a broad front results from the free play of free intellects, working on subjects of their own choice,” Bush wrote, “in the manner dictated by their curiosity for exploration of the unknown.”
+NOTE: Vannevar Bush
+
+“When you push the boundaries, a lot of it is just probing. It has to be inefficient,”
+
+People grab lunch and bring it into their offices. They feel lunch is inefficient, but often that’s the best time to bounce ideas and make connections.”
+
+companies do their most impactful creative work in a crisis, because the disciplinary boundaries fly out the window.
+
+CONCLUSION Expanding Your Range
+
+The popular notion of the Tiger path minimizes the role of detours, breadth, and experimentation. It is attractive because it is a tidy prescription, low on uncertainty and high on efficiency.
+
+Experimentation is not a tidy prescription, but it is common, and it has advantages, and it requires more than the typical motivational-poster lip service to a tolerance for failure. Breakthroughs are high variance.
+
+Original creators tend to strike out a lot, but they also hit mega grand slams, and a baseball analogy doesn’t really do it justice.
+
+Going where no one has is a wicked problem. There is no well-defined formula or perfect system of feedback to follow. It’s like the stock market that way; if you want the sky highs, you have to tolerate a lot of lows. As InnoCentive founder Alph Bingham told me, “breakthrough and fallacy look a lot alike initially.”
+
+So, about that one sentence of advice: Don’t feel behind.
+
+Compare yourself to yourself yesterday, not to younger people who aren’t you. Everyone progresses at a different rate, so don’t let anyone else make you feel behind. You probably don’t even know where exactly you’re going, so feeling behind doesn’t help.
+
+Approach your own personal voyage and projects like Michelangelo approached a block of marble, willing to learn and adjust as you go, and even to abandon a previous goal and change directions entirely should the need arise.
+
+Finally, remember that there is nothing inherently wrong with specialization. We all specialize to one degree or another, at some point or other.
+
